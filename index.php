@@ -1,2 +1,0 @@
-$dir = "Hallo";
-echo($dir);
