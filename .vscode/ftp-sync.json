@@ -1,0 +1,27 @@
+{
+    "remotePath": "./",
+    "host": "ftp.danigta.de",
+    "username": "Eric",
+    "password": "6zp3C^zAsKew-9XQ",
+    "port": 21,
+    "secure": true,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": false,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "agent": null,
+    "allow": [],
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "extensionsToInclude": [
+            ""
+        ],
+        "path": ""
+    }
+}
